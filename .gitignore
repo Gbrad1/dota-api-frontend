@@ -56,3 +56,4 @@ tsconfig.json
 tsconfig.app.json
 tslint.json
 
+/e2e/
